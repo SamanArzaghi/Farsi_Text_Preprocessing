@@ -1,2 +1,3 @@
 # Farsi_Text_Preprocessing
-Farsi(persian) Text pre processing with "Hazm" librarie.
+
+In our NLP Persian text preprocessing project, we will be harnessing the power of the 'Hazm' library, specifically designed for Persian text. This library offers a comprehensive set of tools and features tailored to the intricacies of the Persian language. Throughout the project, we will delve into Hazm's capabilities and demonstrate how it can be effectively utilized for text preprocessing in Persian. Our exploration will include an in-depth examination of Hazm's features, showcasing how they can enhance the quality and accuracy of natural language processing tasks in the Persian language.
